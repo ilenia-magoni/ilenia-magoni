@@ -29,6 +29,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilenia-magoni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7AM2E8)
-
-[![@ieahleen's Holopin board](https://holopin.me/ilenia-magoni)](https://holopin.io/@ilenia-magoni)
-  
