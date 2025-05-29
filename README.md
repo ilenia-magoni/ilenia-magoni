@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7AM2E8)
 
-[![@ieahleen's Holopin board](https://holopin.me/ieahleen)](https://holopin.io/@ieahleen)
+[![@ieahleen's Holopin board](https://holopin.me/ilenia-magoni)](https://holopin.io/@ilenia-magoni)
   
