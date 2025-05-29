@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ieahleen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilenia-magoni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieahleen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilenia-magoni)](https://github.com/anuraghazra/github-readme-stats)
 
 Where I am online:
  - Steam as [ieahleen](https://steamcommunity.com/profiles/76561198123312343/) || [Wish List](https://store.steampowered.com/wishlist/profiles/76561198123312343/)
